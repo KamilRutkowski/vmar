@@ -2,7 +2,7 @@ extern crate num;
 extern crate std;
 
 pub struct Matrix<T> {
-    data: Vec<Vec<T>>,
+    data: Vec<Vec<T>>
 }
 
 impl<T> Matrix<T>

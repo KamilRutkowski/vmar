@@ -5,7 +5,7 @@ version = "0.0.1"
 authors = ["Kamil Rutkowski"]
 
 [dependencies]
-time = "*"
-gnuplot = "*"
-rand = "*"
-num = "*"
+time = "0.1.35"
+gnuplot = "0.0.21"
+rand = "0.3.15"
+num = "0.1.36"
